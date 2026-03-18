@@ -1,7 +1,3 @@
-Here is a clean README for your Excel project. Ready for GitHub.
-
----
-
 # Excel Data Analysis Project
 
 ## Overview
